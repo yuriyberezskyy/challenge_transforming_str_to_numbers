@@ -11,3 +11,5 @@ print(int(str_two_digit_number[0])+int(str_two_digit_number[1]))
 
 
 
+
+
